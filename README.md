@@ -66,9 +66,8 @@ Create a file named `.env` in the root of your project folder. Add your bot toke
 
 ```env
 TOKEN=your_discord_bot_token_here
+GUILD_ID=your_guild_id
 ```
-
-**Note:** Open `main.js` and locate the line `client.guilds.cache.get('...')`. Replace the ID inside the quotes with your **Discord Server ID** (Right-click server name -> Copy ID).
 
 ---
 
