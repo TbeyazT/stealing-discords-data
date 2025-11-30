@@ -1,0 +1,29 @@
+[
+  {
+    "fileName": "5ba172d8e2672d2caca285446dede657.jpg",
+    "fileSize": 175913,
+    "status": "uploaded",
+    "channelId": "1444659583133155498",
+    "messageIds": [
+      "1444659586224230570"
+    ]
+  },
+  {
+    "fileName": "roket_icin.txt",
+    "fileSize": 402,
+    "status": "uploaded",
+    "channelId": "1444663641155829770",
+    "messageIds": [
+      "1444663642502074501"
+    ]
+  },
+  {
+    "fileName": "steam.dll",
+    "fileSize": 518752,
+    "status": "uploaded",
+    "channelId": "1444663741730918544",
+    "messageIds": [
+      "1444663748043472947"
+    ]
+  }
+]

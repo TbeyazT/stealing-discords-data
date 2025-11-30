@@ -1,0 +1,15 @@
+Aurdino Nano
+https://www.robotistan.com/arduino-nano
+
+micro sd tut - https://www.youtube.com/watch?v=PKSIEqMWt9A
+
+Micro sd
+https://www.vatanbilgisayar.com/micro-sd/
+
+Micro sd kart modülü
+https://www.robotistan.com/mikro-sd-kart-modulu-1
+
+Bbs tut- https://www.youtube.com/watch?v=NW_b3i3iAXc
+
+Barometrik basınç sensörü
+https://www.robotistan.com/bmp180-dijital-hava-basinci-sensoru
