@@ -9,7 +9,7 @@ A modern, dark-themed desktop application that utilizes Discord's server infrast
 
 ## 📂 Project Overview
 
-This application allows you to upload files from your computer to a Discord server. Since Discord has a file size limit (usually 25MB for free users), this app **bypasses that limit** by splitting large files into small chunks.
+This application allows you to upload files from your computer to a Discord server. Since Discord has a file size limit (usually 10MB for free users), this app **bypasses that limit** by splitting large files into small chunks.
 
 ### How it Works
 1.  **Chunking:** When you select a file, the app splits it into **10MB chunks**.
