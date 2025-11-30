@@ -5,7 +5,7 @@ A modern, dark-themed desktop application that utilizes Discord's server infrast
 
 ![Status](https://img.shields.io/badge/Status-Educational_Only-purple) ![License](https://img.shields.io/badge/License-MIT-blue)
 
-[Overview](./photos/overview.png)
+![Overview](./photos/overview.png)
 
 ## 📂 Project Overview
 
